@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Sence/GameSence.fire",orientation:"landscape",jsList:["assets/Script/design/framework-production.d68d0.js"],bundleVers:{internal:"d17e2",resources:"b506a",main:"9177a"}};
